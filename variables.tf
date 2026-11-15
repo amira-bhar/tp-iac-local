@@ -10,7 +10,7 @@ variable "db_user" {
 
 variable "db_password" {
   type      = string
-  default   = "strongpassword123"
+  default   = "newpassword456"
   sensitive = true
 }
 
